@@ -22,19 +22,19 @@ Crafting fast, scalable, and user-friendly web applications with modern JavaScri
 
 ## 📌 Featured Projects  
 
-### 🔹 [Product X](#)  
+### 🔹 [Product X](https://trysurge.ai/)  
 💡 Real-time **team collaboration app** with room-based grouping using WebSockets.  
 📦 Deployed as a **Windows desktop app** with Electron.js.  
 
-### 🔹 [GE3S SI Tool](#)  
+### 🔹 [GE3S SI Tool](https://si.ge3s.org/)  
 🤖 Integrated **AI APIs** to automate workflows, reducing manual effort by ~50%.  
 📊 Visualized **20+ data attributes** with D3.js & Visx for interactive charts.  
 
-### 🔹 [Condo Kharido](#)  
+### 🔹 [Condo Kharido](https://wip.condokharido.ca/home)  
 🏘️ Built **client & admin panels** with Next.js + Firebase, managing 100+ listings.  
 ⚡ Improved **page speed by 30%** using SSR, lazy loading, and code splitting.  
 
-### 🔹 [Steelora](#)  
+### 🔹 [Steelora](https://www.steelora.com/)  
 📈 Achieved **99 Lighthouse SEO score** via optimized Next.js SSR.  
 ☁️ Deployed with **AWS Amplify CI/CD**, ensuring 0 downtime.  
 
